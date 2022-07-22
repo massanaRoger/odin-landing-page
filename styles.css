@@ -173,3 +173,12 @@ ul {
     color: #e5e7eb;
     margin-top: 5px;
 }
+
+.footer {
+    background: #1f2937;
+    text-align: center;
+    padding: 20px 0;
+    color: #e5e7eb;
+    font-size: 12px;
+    font-weight: 200;
+}
