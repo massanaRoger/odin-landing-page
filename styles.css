@@ -117,3 +117,23 @@ ul {
     border-radius: 8px;
     margin-bottom: 8px;
 }
+
+.quote {
+    background: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 70px 400px ;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 200;
+    color: #1f2937;
+}
+
+.thor {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
