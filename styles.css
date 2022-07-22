@@ -137,3 +137,39 @@ ul {
     font-size: 20px;
     font-weight: 600;
 }
+
+.outer-sign-up {
+    padding: 80px 220px;
+}
+
+.sign-up-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #3882f6;
+    border-radius: 5px;
+    padding: 30px 0;
+}
+
+.sign-up-heading, .sign-up-section-button {
+    color: #f9faf8;
+}
+
+.sign-up-section-button {
+    background: #3882f6;
+    border: 1px solid #f9faf8;
+    padding: 6px 16px;
+    border-radius: 6px;
+}
+
+.sign-up-section-button:hover {
+    cursor: pointer;
+    background: #f9faf8;
+    color: #3882f6;
+}
+
+.sign-up-text {
+    font-size: 14px;
+    color: #e5e7eb;
+    margin-top: 5px;
+}
